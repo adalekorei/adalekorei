@@ -2,9 +2,9 @@
 I am currently learning Dart and Flutter to build cross-platform mobile applications. My goal is to deepen my understanding of mobile development, enhance my coding skills, and gain practical experience in creating responsive, high-performance apps for both Android and iOS platforms. 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adalekorei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adalekorei&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=5&theme=default&hide_border=false" height="180" alt="languages graph"  />
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=adalekorei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adalekorei&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 # 💻 Tech Stack:
